@@ -7,6 +7,7 @@ namespace IntCollections
     {
         private static void Main()
         {
+            /// Collections
             List<int> List = new List<int> {1, 10, -30, 10, -5};
             Stack<int> Stack = new Stack<int> {};
             Queue<int> Queue = new Queue<int> {};

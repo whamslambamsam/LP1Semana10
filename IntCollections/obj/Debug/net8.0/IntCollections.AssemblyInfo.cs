@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IntCollections")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0f6a9c4b462ac8a21a88ff047543b1b0f5e26821")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3c644f3276905f2e4d1bac64b76c32267dfeb209")]
 [assembly: System.Reflection.AssemblyProductAttribute("IntCollections")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IntCollections")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

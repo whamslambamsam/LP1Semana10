@@ -1,0 +1,5 @@
+C:\Users\caras\desktop\LP1\LP1Semana10\IntGrouper\obj\Debug\net8.0\IntGrouper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caras\desktop\LP1\LP1Semana10\IntGrouper\obj\Debug\net8.0\IntGrouper.AssemblyInfoInputs.cache
+C:\Users\caras\desktop\LP1\LP1Semana10\IntGrouper\obj\Debug\net8.0\IntGrouper.AssemblyInfo.cs
+C:\Users\caras\desktop\LP1\LP1Semana10\IntGrouper\obj\Debug\net8.0\IntGrouper.csproj.CoreCompileInputs.cache
+C:\Users\caras\desktop\LP1\LP1Semana10\IntGrouper\obj\Debug\net8.0\IntGrouper.sourcelink.json

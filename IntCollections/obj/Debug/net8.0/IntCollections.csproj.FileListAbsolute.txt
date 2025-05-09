@@ -1,0 +1,14 @@
+C:\Users\caras\desktop\LP1\LP1Semana10\IntCollections\obj\Debug\net8.0\IntCollections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caras\desktop\LP1\LP1Semana10\IntCollections\obj\Debug\net8.0\IntCollections.AssemblyInfoInputs.cache
+C:\Users\caras\desktop\LP1\LP1Semana10\IntCollections\obj\Debug\net8.0\IntCollections.AssemblyInfo.cs
+C:\Users\caras\desktop\LP1\LP1Semana10\IntCollections\obj\Debug\net8.0\IntCollections.csproj.CoreCompileInputs.cache
+C:\Users\caras\desktop\LP1\LP1Semana10\IntCollections\bin\Debug\net8.0\IntCollections.exe
+C:\Users\caras\desktop\LP1\LP1Semana10\IntCollections\bin\Debug\net8.0\IntCollections.deps.json
+C:\Users\caras\desktop\LP1\LP1Semana10\IntCollections\bin\Debug\net8.0\IntCollections.runtimeconfig.json
+C:\Users\caras\desktop\LP1\LP1Semana10\IntCollections\bin\Debug\net8.0\IntCollections.dll
+C:\Users\caras\desktop\LP1\LP1Semana10\IntCollections\bin\Debug\net8.0\IntCollections.pdb
+C:\Users\caras\desktop\LP1\LP1Semana10\IntCollections\obj\Debug\net8.0\IntCollections.dll
+C:\Users\caras\desktop\LP1\LP1Semana10\IntCollections\obj\Debug\net8.0\refint\IntCollections.dll
+C:\Users\caras\desktop\LP1\LP1Semana10\IntCollections\obj\Debug\net8.0\IntCollections.pdb
+C:\Users\caras\desktop\LP1\LP1Semana10\IntCollections\obj\Debug\net8.0\IntCollections.genruntimeconfig.cache
+C:\Users\caras\desktop\LP1\LP1Semana10\IntCollections\obj\Debug\net8.0\ref\IntCollections.dll

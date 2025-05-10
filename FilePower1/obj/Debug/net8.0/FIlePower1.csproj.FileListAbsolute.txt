@@ -1,0 +1,5 @@
+C:\Users\caras\desktop\LP1\LP1Semana10\FilePower1\obj\Debug\net8.0\FIlePower1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caras\desktop\LP1\LP1Semana10\FilePower1\obj\Debug\net8.0\FIlePower1.AssemblyInfoInputs.cache
+C:\Users\caras\desktop\LP1\LP1Semana10\FilePower1\obj\Debug\net8.0\FIlePower1.AssemblyInfo.cs
+C:\Users\caras\desktop\LP1\LP1Semana10\FilePower1\obj\Debug\net8.0\FIlePower1.csproj.CoreCompileInputs.cache
+C:\Users\caras\desktop\LP1\LP1Semana10\FilePower1\obj\Debug\net8.0\FIlePower1.sourcelink.json
